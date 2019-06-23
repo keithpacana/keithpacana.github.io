@@ -19,11 +19,14 @@
         margin-bottom: 5%;
     }
     .about-container{
-        width:200px;
+        width:280px;
+        margin-left: 0;
+
     }
     .about-intro-container{
         display: block;
-        width: 200px;
+        width: 280px;
+        margin-left: 10%;
     }
 }
 
@@ -33,10 +36,12 @@
         margin-bottom: 5%;
     }
     .about-container{
-        width:400px;
+        width:500px;        
+        margin-left: 0;
     }
     .about-intro-container{
         display: block;
-        width: 400px;
+        width: 500px;
+        margin-left: 20%;
     }
 }

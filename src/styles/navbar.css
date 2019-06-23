@@ -45,3 +45,29 @@
 .logo:hover {
     color: #9b9b9b;
 }
+@media only screen and (max-width: 500px) {
+    .nav-item{
+        margin-left: 40px;
+    }
+    .nav-link {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .nav-container {
+        width: 200px;
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (min-width: 501px) and (max-width: 970px) {
+    .nav-item{
+        margin-left: 45%;
+    }
+    .nav-link {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .nav-container {
+        width: 400px;
+    }
+  }

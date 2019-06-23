@@ -12,3 +12,31 @@
     font-size: 14px;
 
 }
+
+@media only screen and (max-width: 500px) {
+    .img-style{
+        width: 100%;
+        margin-bottom: 5%;
+    }
+    .about-container{
+        width:200px;
+    }
+    .about-intro-container{
+        display: block;
+        width: 200px;
+    }
+}
+
+@media only screen and (min-width: 501px) and (max-width: 970px) {
+    .img-style{
+        width: 100%;
+        margin-bottom: 5%;
+    }
+    .about-container{
+        width:400px;
+    }
+    .about-intro-container{
+        display: block;
+        width: 400px;
+    }
+}

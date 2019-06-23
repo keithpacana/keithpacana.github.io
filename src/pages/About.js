@@ -12,7 +12,7 @@ export default class About extends React.Component {
     render() {
         return (
                 <div className="about-intro-container">
-                        <img style={{width: "300px"}} src="./images/me.jpg"/>
+                        <img className="img-style" src="./images/me.jpg"/>
                         <div className="about-container"> <span >I recently graduated from UC Berkeley
                             where I studied Computer Science and Cognitive Science. 
                             I am currently looking for new-grad/junior full-time opportunities in software! 

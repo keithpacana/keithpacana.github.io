@@ -74,4 +74,41 @@
     cursor: pointer;
 }
 
+@media only screen and (max-width: 500px) {
+    .projects-descript {
+        width: 300px;
+        display: block;
+        margin-top: 5%;
+        margin-left: 10%;
+    }
+    .project-container {
+        width: 280px;
+        margin-left: 10%;
+    }
+    .project-card-container{
+        width: 280px;
+    }
+    .project-container img {
+        width: 280px;
+    }
+}
+
+@media only screen and (min-width: 501px) and (max-width: 980px) {
+    .projects-descript {
+        width: 700px;
+        display: block;
+        margin-top: 5%;
+        margin-left: 20%;
+    }
+    .project-container {
+        width: 500px;
+        margin-left: 20%;
+    }
+    .project-card-container{
+        width: 500px;
+    }
+    .project-container img {
+        width: 500px;
+    }
+}
 

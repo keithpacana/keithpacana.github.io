@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans');
+
+body {
+    background-color: #EFEFEF;
+}
+
+.intro-container {
+    width: 600px;
+    margin-left: 20%;
+    margin-top: 10%;
+    }
+
+.intro-title {
+    font-family: 'Helvetica Neue';
+    font-weight: bold;
+    color: #363636;
+    font-size: 65px;
+}
+
+.intro-text {
+    margin-top: 4%;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    color: #363636;
+    line-height: 1.7;
+}
+
+/* .highlight {
+    background-color: #9AF7FE;
+    padding-left: 0.5%;
+    margin-right: 0.5%;
+    border-radius: 4px;
+}
+.highlight-2 {
+    background-color: #9AF7FE;
+    padding-left: 1%;
+
+    border-radius: 4px;
+} */

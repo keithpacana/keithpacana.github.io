@@ -1,0 +1,14 @@
+.about-container {
+    width: 700px;
+    margin-left: 5%;
+}
+
+.about-intro-container {
+    width: 850px;
+    display: flex;
+    margin-left: 20%;
+    margin-top: 3%;
+    font-family: 'Open Sans';
+    font-size: 14px;
+
+}
